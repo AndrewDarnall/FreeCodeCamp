@@ -1,2 +1,0 @@
-This is the GitHub personal access token, has 90 validity, expires July 18th 2022
-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
