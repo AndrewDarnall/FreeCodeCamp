@@ -1,0 +1,47 @@
+/*
+    Keeping the stylesheet separate helps with big projects
+*/
+#title {
+    display: grid;
+    padding-top: 1%;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#img-div {
+    border: 5px;
+    border-color: black;
+    margin: 50px 50px 50px 50px;
+}
+
+#tribute {
+    text-align: center;
+}
+
+#img-caption {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 1% auto;
+}
+
+#tribute-info {
+    display: grid;
+    justify-content: center;
+    margin: 0 50px 0 50px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border: 5px;
+    border-color: black;
+    border-radius: 10px;
+}
+
+/* This right here is a VERY important piece of code that make the image responsive etc */
