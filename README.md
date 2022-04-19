@@ -1,8 +1,9 @@
-# FreeCodeCamp
-FreeCodeCamp code repository
+# Repository overview
 
-#This is the main header
-Hello this is the main header of the project
+This repository will contain the FreeCodeCamp projects (as the name suggests) 
+it will start with the front end projects and it is a great way to practice my
+software development skills along with bettering my GitHub skills
 
-# This is some brand new shit
-hello my friend
+# First project: Tribute Page
+
+From the responsive web design course
